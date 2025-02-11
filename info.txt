@@ -1,0 +1,4 @@
+Deepface install
+https://github.com/serengil/deepface
+
+pip3.12 install deepface
